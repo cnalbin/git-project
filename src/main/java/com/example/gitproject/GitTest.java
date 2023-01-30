@@ -9,5 +9,6 @@ public class GitTest {
          System.out.println("亲亲亲亲亲亲亲亲亲");
         System.out.println("master");
 
+         System.out.println("dev");
     }
 }
